@@ -1,0 +1,747 @@
+﻿Gender,Webcam status during class,Mic status during class,Which device do you use for online classes?,Did you face any of the following issues after the initiation of online classes?,Are you able to understand the concepts through online classes?,Which teaching methodology do you prefer?,Are you interested in attending online classes?,If you are given a choice between online classes and offline classes which one will you choose?
+Male,Off (Other reason),On (To answer Teacher),Laptop,"Eye Strain, Headache",Yes,Black board teaching,Yes,Offline classes
+Male,Off (No webcam available),On (To answer Teacher),Computer,Eye Strain,Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",Yes,Black board teaching,No,Offline classes
+Male,On (All the time),On (To answer Teacher),Computer,"Eye Strain, Back pain",Yes,Presentations (ppt),Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Headache,Yes,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Tab, Laptop, Computer","Eye Strain, Back pain, Headache",Yes,Black board teaching,Yes,Offline classes
+Male,On (All the time),On (To answer Teacher),Tab,Back pain,No,Black board teaching,No,Online classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress, Other",Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",Yes,Presentations (ppt),Yes,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Phone,Eye Strain,Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Headache, Stress, Other",Yes,Presentations (ppt),No,Offline classes
+Male,Off (Other reason),Off (Other reason),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain",Yes,Presentations (ppt),Yes,Online classes
+Male,Off (No webcam available),On (To answer Teacher),Laptop,"Eye Strain, Back pain",Yes,Presentations (ppt),Yes,Offline classes
+Female,Off (Other reason),Always On,Laptop,Eye Strain,Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),Off (Other reason),"Tab, Laptop, Computer",No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,Off (Untidy appearance),On (To answer Teacher),Laptop,"Eye Strain, Back pain",No,Black board teaching,No,Offline classes
+Female,Off (No webcam available),On (To answer Teacher),Laptop,"Eye Strain, Headache, Stress, Other",No,Presentations (ppt),No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",No Issue,No,Black board teaching,Yes,Online classes
+Female,Off (Untidy appearance),On (To answer Teacher),Phone,"Eye Strain, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain",Yes,Presentations (ppt),Yes,Online classes
+Female,Off (Shy to switch on),On (To answer Teacher),Laptop,"Eye Strain, Back pain",Yes,Black board teaching,Yes,Online classes
+Female,Off (Untidy appearance),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (All the time),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,Off (Other reason),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress, Other",Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),Always On,Computer,"Eye Strain, Back pain",Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Tab,"Eye Strain, Headache",Yes,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),Off (Do not want to reply),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress",No,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",No Issue,Yes,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),Laptop,"Eye Strain, Headache, Stress",No,Presentations (ppt),No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,No Issue,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),Off (Other reason),"Phone, Laptop","Eye Strain, Headache",Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress, Other",Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Laptop, Computer",No Issue,Yes,Presentations (ppt),Yes,Offline classes
+Male,Off (No webcam available),Off (No mic available),Computer,"Eye Strain, Back pain, Headache, Stress, Other",No,Presentations (ppt),No,Offline classes
+Male,Off (Untidy appearance),On (To answer Teacher),Phone,"Eye Strain, Back pain",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),Off (No mic available),Laptop,Headache,No,Black board teaching,Yes,Offline classes
+Female,Off (No webcam available),On (To answer Teacher),"Phone, Tab, Laptop","Eye Strain, Headache, Other",Yes,Black board teaching,Yes,Online classes
+Female,Off (Other reason),On (To answer Teacher),"Phone, Tab, Laptop, Computer","Eye Strain, Back pain",Yes,Presentations (ppt),No,Offline classes
+Male,On (All the time),On (To answer Teacher),"Phone, Laptop, Computer","Eye Strain, No Issue",Yes,Presentations (ppt),Yes,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress",Yes,Presentations (ppt),Yes,Online classes
+Female,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache",Yes,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (All the time),On (To answer Teacher),"Phone, Tab, Laptop","Eye Strain, Back pain, Headache, Stress, Other",Yes,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",No Issue,Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Headache, Stress",Yes,Presentations (ppt),Yes,Offline classes
+Female,On (When teacher asks),Off (Do not want to reply),"Phone, Tab, Laptop",No Issue,Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain",Yes,Presentations (ppt),Yes,Online classes
+Male,Off (Other reason),On (To answer Teacher),"Tab, Laptop",No Issue,Yes,Black board teaching,Yes,Online classes
+Male,On (When teacher asks),Always On,Phone,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Female,Off (No webcam available),On (To answer Teacher),Tab,Eye Strain,Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",No Issue,No,Presentations (ppt),No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain",No,Presentations (ppt),Yes,Online classes
+Male,Off (No webcam available),On (To answer Teacher),"Phone, Tab, Computer",Eye Strain,Yes,Black board teaching,Yes,Offline classes
+Male,On (All the time),Off (Other reason),"Laptop, Computer",No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress",No,Presentations (ppt),No,Offline classes
+Male,On (All the time),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress",Yes,Presentations (ppt),No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain, Stress",Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,Yes,Presentations (ppt),No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Headache, Other",Yes,Black board teaching,Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Other,No,Black board teaching,Yes,Offline classes
+Male,Off (Untidy appearance),On (To answer Teacher),Laptop,Headache,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,Yes,Black board teaching,No,Offline classes
+Male,Off (Other reason),Off (Other reason),Laptop,"Eye Strain, Back pain, Headache, Other",Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop, Computer",Eye Strain,No,Black board teaching,Yes,Online classes
+Male,On (All the time),Off (Other reason),"Laptop, Computer",No Issue,Yes,Presentations (ppt),Yes,Online classes
+Female,On (All the time),On (To answer Teacher),Tab,Eye Strain,Yes,Presentations (ppt),No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Other,Yes,Black board teaching,Yes,Offline classes
+Female,On (All the time),On (To answer Teacher),Laptop,Eye Strain,Yes,Black board teaching,No,Offline classes
+Female,On (All the time),On (To answer Teacher),Laptop,Headache,No,Presentations (ppt),Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Headache, Other",No,Black board teaching,No,Offline classes
+Male,Off (No webcam available),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Headache, Other",Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Tab, Laptop","Eye Strain, Back pain",No,Presentations (ppt),No,Offline classes
+Male,On (All the time),On (To answer Teacher),Phone,No Issue,Yes,Presentations (ppt),Yes,Offline classes
+Male,Off (Shy to switch on),On (To answer Teacher),"Phone, Laptop",Headache,No,Black board teaching,No,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Laptop,Headache,Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,No Issue,Yes,Black board teaching,No,Offline classes
+Female,Off (Untidy appearance),Off (No mic available),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),Off (Do not want to reply),Laptop,"Eye Strain, Back pain, Stress",No,Black board teaching,No,Offline classes
+Male,Off (Other reason),Off (Other reason),Laptop,Eye Strain,Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),Off (Other reason),"Phone, Laptop","Back pain, Headache, Stress",No,Presentations (ppt),No,Offline classes
+Female,Off (Shy to switch on),Off (Do not want to reply),Laptop,Back pain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,Off (No webcam available),Off (No mic available),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,Off (Other reason),On (To answer Teacher),"Phone, Laptop",Eye Strain,Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress",Yes,Presentations (ppt),No,Offline classes
+Male,On (All the time),Always On,Laptop,Stress,Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,Yes,Black board teaching,Yes,Offline classes
+Male,On (All the time),Always On,Laptop,Stress,Yes,Black board teaching,Yes,Offline classes
+Female,Off (Untidy appearance),Off (No mic available),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,Yes,Presentations (ppt),Yes,Online classes
+Female,Off (Untidy appearance),Off (Do not want to reply),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),Off (Do not want to reply),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress",No,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,No Issue,No,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),Off (Other reason),Phone,"Eye Strain, Headache, Stress",Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),Off (Other reason),"Phone, Tab, Laptop, Computer","Eye Strain, Back pain, Headache, Stress",Yes,Black board teaching,Yes,Offline classes
+Male,Off (No webcam available),Off (No mic available),Laptop,"Eye Strain, Back pain, Headache, Stress, Other",No,Presentations (ppt),No,Offline classes
+Male,On (All the time),On (To answer Teacher),Laptop,"Eye Strain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),Off (Other reason),"Phone, Laptop, Computer","Eye Strain, Back pain, Headache, Stress",Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Headache,Yes,Black board teaching,Yes,Offline classes
+Male,On (All the time),On (To answer Teacher),Laptop,Headache,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),Off (Do not want to reply),Laptop,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,Off (Shy to switch on),Off (Do not want to reply),Phone,"Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache",Yes,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain",No,Black board teaching,Yes,Offline classes
+Male,On (All the time),On (To answer Teacher),Laptop,Back pain,Yes,Presentations (ppt),Yes,Online classes
+Female,Off (Other reason),On (To answer Teacher),"Phone, Laptop",No Issue,Yes,Black board teaching,No,Offline classes
+Female,On (All the time),On (To answer Teacher),Laptop,Eye Strain,Yes,Presentations (ppt),Yes,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Laptop,"Headache, Stress",Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),Off (Do not want to reply),"Phone, Laptop","Eye Strain, Back pain",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Back pain, Headache, Stress",Yes,Black board teaching,Yes,Offline classes
+Female,On (All the time),On (To answer Teacher),Tab,No Issue,Yes,Black board teaching,Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,Yes,Black board teaching,Yes,Offline classes
+Male,Off (No webcam available),On (To answer Teacher),"Phone, Laptop",Headache,Yes,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,Off (Untidy appearance),On (To answer Teacher),Tab,"Back pain, No Issue",No,Presentations (ppt),No,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Phone,Eye Strain,No,Black board teaching,No,Offline classes
+Female,Off (Other reason),Off (Other reason),"Phone, Laptop","Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Female,Off (Other reason),Off (Other reason),"Laptop, Computer","Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain",Yes,Black board teaching,No,Offline classes
+Female,Off (Untidy appearance),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Headache,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Female,On (All the time),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",Yes,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Tab,Headache,Yes,Black board teaching,Yes,Offline classes
+Female,On (All the time),Always On,"Laptop, Computer","Back pain, Headache",Yes,Presentations (ppt),Yes,Online classes
+Male,Off (Other reason),On (To answer Teacher),Laptop,"Eye Strain, Headache",Yes,Presentations (ppt),No,Offline classes
+Male,Off (No webcam available),On (To answer Teacher),Laptop,"Eye Strain, Headache",Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Male,Off (Untidy appearance),On (To answer Teacher),"Phone, Computer","Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,Eye Strain,Yes,Presentations (ppt),No,Offline classes
+Male,On (All the time),Always On,"Phone, Laptop","Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,Off (No webcam available),On (To answer Teacher),Phone,"Eye Strain, Stress",Yes,Presentations (ppt),Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Headache, Stress",Yes,Presentations (ppt),Yes,Offline classes
+Male,Off (No webcam available),On (To answer Teacher),Phone,Back pain,Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain",Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,No Issue,Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Headache, Stress, Other",Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Tab,"Eye Strain, Back pain, Headache, Stress",No,Presentations (ppt),No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,Off (Untidy appearance),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress, Other",No,Presentations (ppt),No,Offline classes
+Male,Off (Shy to switch on),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache",No,Presentations (ppt),No,Offline classes
+Female,On (All the time),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress, Other",Yes,Presentations (ppt),Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),Always On,"Phone, Laptop","Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,No Issue,Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),Yes,Offline classes
+Female,Off (Untidy appearance),On (To answer Teacher),Phone,Stress,No,Black board teaching,No,Offline classes
+Female,Off (Other reason),Off (Do not want to reply),Laptop,Headache,No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),Off (Other reason),Tab,"Eye Strain, Back pain",Yes,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Female,Off (No webcam available),On (To answer Teacher),Computer,Back pain,Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Other,Yes,Black board teaching,No,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Laptop,Eye Strain,Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Headache",Yes,Black board teaching,No,Offline classes
+Male,Off (No webcam available),Off (No mic available),Computer,"Eye Strain, Headache",Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain",No,Black board teaching,Yes,Offline classes
+Female,Off (Untidy appearance),On (To answer Teacher),Phone,Eye Strain,Yes,Black board teaching,Yes,Offline classes
+Female,Off (No webcam available),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain",Yes,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",Back pain,Yes,Presentations (ppt),Yes,Offline classes
+Male,On (All the time),On (To answer Teacher),Laptop,Eye Strain,No,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),Off (Do not want to reply),"Phone, Laptop","Eye Strain, Back pain",Yes,Black board teaching,No,Offline classes
+Female,Off (No webcam available),On (To answer Teacher),Phone,"Eye Strain, Headache",Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,Eye Strain,No,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Tab",No Issue,No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,No,Black board teaching,Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Stress",No,Black board teaching,No,Offline classes
+Male,Off (No webcam available),Off (No mic available),Phone,"Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Male,On (All the time),Always On,"Laptop, Computer","Eye Strain, Back pain",Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Headache,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",Stress,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Stress,Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress",Yes,Black board teaching,No,Offline classes
+Male,On (All the time),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress",No,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Headache",Yes,Presentations (ppt),Yes,Online classes
+Male,Off (No webcam available),Off (Other reason),"Phone, Tab, Laptop, Computer","Eye Strain, Headache, Stress",Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Headache",No,Presentations (ppt),No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Tab, Laptop",No Issue,Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,Yes,Presentations (ppt),Yes,Online classes
+Female,Off (No webcam available),Off (No mic available),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,On (All the time),Always On,Phone,Back pain,Yes,Presentations (ppt),Yes,Offline classes
+Male,Off (No webcam available),Off (Other reason),Laptop,"Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Tab, Laptop","Eye Strain, Back pain, Headache, Stress",Yes,Black board teaching,No,Offline classes
+Female,On (All the time),On (To answer Teacher),Phone,Eye Strain,Yes,Presentations (ppt),No,Offline classes
+Male,Off (Other reason),Off (Other reason),Phone,"Eye Strain, Back pain, Headache",Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Headache",Yes,Presentations (ppt),Yes,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Phone,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain",Yes,Black board teaching,Yes,Offline classes
+Female,Off (Other reason),Off (Other reason),"Phone, Laptop",No Issue,Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress",Yes,Presentations (ppt),Yes,Online classes
+Male,On (All the time),Always On,"Phone, Laptop","Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,On (All the time),Always On,"Phone, Laptop","Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,Off (Untidy appearance),Off (Do not want to reply),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Headache",Yes,Black board teaching,No,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,No Issue,Yes,Black board teaching,Yes,Offline classes
+Male,On (All the time),On (To answer Teacher),Laptop,"Eye Strain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Female,On (All the time),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Female,Off (Shy to switch on),On (To answer Teacher),"Phone, Laptop, Computer","Eye Strain, Headache, Stress",Yes,Presentations (ppt),No,Online classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Headache, Stress",No,Black board teaching,Yes,Offline classes
+Female,On (All the time),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress",No,Presentations (ppt),No,Offline classes
+Female,Off (Other reason),On (To answer Teacher),"Phone, Laptop",Back pain,Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Headache",Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Computer,Back pain,No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Headache,Yes,Presentations (ppt),Yes,Online classes
+Male,On (All the time),Always On,Laptop,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",Eye Strain,Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",Other,Yes,Black board teaching,Yes,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Laptop,Eye Strain,Yes,Black board teaching,Yes,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Laptop,"Eye Strain, Back pain",No,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Tab, Laptop","Eye Strain, Stress",Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,No Issue,Yes,Black board teaching,No,Offline classes
+Male,Off (Other reason),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress, Other",No,Presentations (ppt),No,Offline classes
+Male,Off (Shy to switch on),Off (Do not want to reply),Phone,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,Off (No webcam available),Off (No mic available),Phone,Stress,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),Off (Other reason),Laptop,Headache,No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Back pain",No,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,No Issue,No,Black board teaching,No,Offline classes
+Female,Off (No webcam available),Off (No mic available),Phone,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,On (All the time),Always On,Laptop,No Issue,Yes,Black board teaching,Yes,Offline classes
+Male,Off (No webcam available),Off (Other reason),Phone,"Eye Strain, Headache",No,Black board teaching,No,Online classes
+Female,Off (Shy to switch on),On (To answer Teacher),Phone,No Issue,No,Presentations (ppt),No,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),Phone,"Eye Strain, Stress",No,Presentations (ppt),No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",Back pain,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,Headache,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",No Issue,Yes,Black board teaching,Yes,Offline classes
+Male,On (All the time),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache",Yes,Black board teaching,No,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Back pain, Stress, Other",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,Yes,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Back pain, Stress",Yes,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,Off (No webcam available),Off (No mic available),Computer,Back pain,Yes,Presentations (ppt),Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Back pain, Stress",No,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),Off (Do not want to reply),Laptop,"Eye Strain, Back pain, Stress",No,Presentations (ppt),No,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,Eye Strain,No,Black board teaching,No,Offline classes
+Female,Off (Untidy appearance),Off (No mic available),Tab,Headache,No,Black board teaching,Yes,Offline classes
+Male,On (All the time),Off (Do not want to reply),Computer,"Eye Strain, Back pain, Headache, Stress",Yes,Presentations (ppt),Yes,Online classes
+Female,Off (Other reason),Off (No mic available),Laptop,"Eye Strain, Back pain, Headache, Stress",Yes,Black board teaching,Yes,Online classes
+Female,Off (Shy to switch on),Off (No mic available),Laptop,Headache,No,Presentations (ppt),No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,No Issue,No,Black board teaching,Yes,Offline classes
+Male,Off (Other reason),Off (Other reason),"Phone, Tab, Laptop, Computer","Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (All the time),Always On,Phone,Eye Strain,No,Black board teaching,No,Offline classes
+Female,Off (No webcam available),Off (No mic available),Laptop,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Tab, Laptop","Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,On (All the time),On (To answer Teacher),Laptop,"Eye Strain, Back pain",Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (All the time),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Tab, Laptop, Computer","Headache, Stress",No,Presentations (ppt),No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",Other,No,Presentations (ppt),Yes,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Phone,Back pain,No,Presentations (ppt),No,Offline classes
+Male,On (All the time),On (To answer Teacher),Laptop,Eye Strain,Yes,Presentations (ppt),No,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Computer,Back pain,Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,Headache,No,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (All the time),Always On,"Phone, Laptop",No Issue,Yes,Black board teaching,Yes,Offline classes
+Female,Off (No webcam available),Off (No mic available),Phone,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,On (All the time),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Stress,Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Other",Yes,Presentations (ppt),Yes,Offline classes
+Male,Off (Other reason),Off (Other reason),Laptop,"Eye Strain, Back pain, Headache, Stress, Other",Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",Other,Yes,Presentations (ppt),Yes,Offline classes
+Female,Off (No webcam available),Off (Other reason),Phone,Stress,No,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),"Phone, Laptop, Computer","Eye Strain, Headache, Stress",Yes,Presentations (ppt),No,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Tab,"Eye Strain, Headache",Yes,Presentations (ppt),No,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress",Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Back pain, Headache",Yes,Presentations (ppt),Yes,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Laptop,"Back pain, Headache",Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Headache, Stress",No,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),Phone,Headache,Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache",Yes,Presentations (ppt),Yes,Offline classes
+Male,Off (Shy to switch on),Off (Do not want to reply),"Phone, Laptop",No Issue,Yes,Black board teaching,Yes,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),Phone,"Eye Strain, Back pain",No,Black board teaching,No,Online classes
+Male,Off (Shy to switch on),Off (Do not want to reply),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress",Yes,Presentations (ppt),Yes,Offline classes
+Male,Off (Other reason),Off (Other reason),Laptop,Back pain,No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,Off (Untidy appearance),Off (Other reason),"Phone, Laptop","Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,Off (Shy to switch on),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),Yes,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Laptop, Computer","Eye Strain, Back pain, Headache",Yes,Black board teaching,No,Offline classes
+Female,Off (Untidy appearance),On (To answer Teacher),"Phone, Tab, Laptop, Computer","Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,Off (Other reason),Off (Other reason),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress",No,Presentations (ppt),No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (All the time),Always On,Phone,No Issue,Yes,Presentations (ppt),Yes,Offline classes
+Male,Off (Shy to switch on),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress",No,Presentations (ppt),No,Offline classes
+Male,Off (Untidy appearance),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,Yes,Offline classes
+Female,Off (Untidy appearance),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Female,Off (Untidy appearance),Off (Do not want to reply),"Phone, Laptop",Headache,No,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress",Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Headache,No,Black board teaching,No,Offline classes
+Female,On (All the time),Off (Other reason),Laptop,"Eye Strain, Headache, Stress",Yes,Presentations (ppt),Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Tab, Laptop","Eye Strain, Back pain, Headache, Stress",No,Presentations (ppt),No,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Laptop,"Back pain, Headache",Yes,Black board teaching,Yes,Offline classes
+Male,On (All the time),Always On,Phone,Eye Strain,No,Black board teaching,No,Offline classes
+Female,Off (Other reason),Off (Other reason),Laptop,No Issue,Yes,Black board teaching,No,Offline classes
+Female,Off (Other reason),Off (Other reason),Phone,Other,Yes,Presentations (ppt),Yes,Offline classes
+Female,Off (No webcam available),On (To answer Teacher),Phone,"Eye Strain, Headache",Yes,Black board teaching,No,Offline classes
+Female,Off (Other reason),Off (Other reason),Laptop,No Issue,Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,Off (Other reason),Off (Do not want to reply),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,Yes,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Headache",No,Presentations (ppt),No,Offline classes
+Male,Off (Untidy appearance),Off (Do not want to reply),Phone,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain",No,Black board teaching,No,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress",Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress",Yes,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Tab","Eye Strain, Stress",Yes,Black board teaching,Yes,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Headache,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Back pain, Headache",Yes,Presentations (ppt),Yes,Online classes
+Male,Off (No webcam available),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (All the time),On (To answer Teacher),Laptop,No Issue,Yes,Black board teaching,Yes,Online classes
+Female,Off (Other reason),On (To answer Teacher),Phone,Headache,Yes,Black board teaching,Yes,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Laptop,Eye Strain,Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,Yes,Black board teaching,Yes,Offline classes
+Female,Off (Other reason),Off (Other reason),"Phone, Laptop","Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Female,Off (Other reason),On (To answer Teacher),Laptop,"Back pain, Headache, Other",No,Black board teaching,Yes,Offline classes
+Male,Off (Untidy appearance),Off (Other reason),"Phone, Laptop","Eye Strain, Stress",No,Presentations (ppt),No,Offline classes
+Male,Off (No webcam available),Off (No mic available),Computer,"Eye Strain, Back pain, Headache, Stress",Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Tab",No Issue,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,Off (No webcam available),Off (Do not want to reply),Phone,"Back pain, Stress",No,Black board teaching,No,Offline classes
+Male,Off (Untidy appearance),On (To answer Teacher),Phone,No Issue,No,Presentations (ppt),No,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,On (All the time),Always On,Phone,Headache,Yes,Presentations (ppt),Yes,Offline classes
+Female,Off (Untidy appearance),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain",Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain",Yes,Black board teaching,No,Offline classes
+Male,Off (Other reason),Off (Other reason),Phone,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,Off (No webcam available),Off (Do not want to reply),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress",No,Black board teaching,Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),Yes,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),"Phone, Laptop, Computer","Eye Strain, Headache, Stress",Yes,Presentations (ppt),No,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Back pain, Stress",Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,Off (No webcam available),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",Yes,Presentations (ppt),Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Tab,"Eye Strain, Headache",Yes,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),Off (Do not want to reply),Laptop,Headache,No,Black board teaching,No,Offline classes
+Male,On (All the time),Always On,Phone,"Eye Strain, Headache, Stress",Yes,Presentations (ppt),Yes,Offline classes
+Male,Off (Untidy appearance),On (To answer Teacher),"Phone, Laptop",Back pain,No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain",No,Presentations (ppt),Yes,Offline classes
+Female,Off (Other reason),On (To answer Teacher),"Phone, Laptop",Eye Strain,No,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Tab, Laptop",No Issue,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Headache, Stress",Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,No Issue,No,Black board teaching,No,Offline classes
+Male,Off (Shy to switch on),Off (Do not want to reply),Laptop,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Other",Yes,Black board teaching,Yes,Online classes
+Male,Off (Untidy appearance),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress",Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,Other,No,Black board teaching,No,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Computer,"Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain",Yes,Black board teaching,Yes,Offline classes
+Male,Off (No webcam available),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (All the time),On (To answer Teacher),Phone,No Issue,Yes,Black board teaching,Yes,Offline classes
+Female,On (All the time),On (To answer Teacher),Phone,No Issue,Yes,Black board teaching,Yes,Offline classes
+Female,On (All the time),On (To answer Teacher),Phone,No Issue,Yes,Black board teaching,Yes,Offline classes
+Female,On (All the time),On (To answer Teacher),Tab,No Issue,Yes,Black board teaching,Yes,Online classes
+Male,On (When teacher asks),Off (Other reason),Laptop,No Issue,Yes,Black board teaching,Yes,Offline classes
+Female,On (All the time),Always On,Tab,"Eye Strain, Back pain, Headache, Stress, Other",Yes,Presentations (ppt),Yes,Online classes
+Female,Off (Shy to switch on),Off (Do not want to reply),Tab,"Back pain, Stress, Other",Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),"Tab, Laptop","Eye Strain, Back pain, Headache",No,Black board teaching,Yes,Online classes
+Male,On (When teacher asks),Off (Do not want to reply),Laptop,"Eye Strain, Back pain, Stress",Yes,Presentations (ppt),Yes,Online classes
+Male,Off (Shy to switch on),Off (Do not want to reply),Tab,"Eye Strain, Back pain, Headache",Yes,Presentations (ppt),Yes,Online classes
+Male,Off (Shy to switch on),On (To answer Teacher),Computer,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Computer,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,Yes,Online classes
+Male,On (All the time),Always On,Computer,Eye Strain,Yes,Black board teaching,Yes,Online classes
+Male,On (All the time),Always On,Phone,Eye Strain,Yes,Black board teaching,Yes,Online classes
+Male,On (All the time),Always On,Phone,Back pain,Yes,Black board teaching,Yes,Online classes
+Male,On (When teacher asks),Always On,Phone,Eye Strain,Yes,Black board teaching,Yes,Online classes
+Male,On (All the time),Always On,Phone,Eye Strain,Yes,Black board teaching,Yes,Online classes
+Male,On (All the time),Always On,Tab,Eye Strain,Yes,Black board teaching,Yes,Online classes
+Male,On (When teacher asks),Off (Do not want to reply),Phone,"Back pain, Headache",Yes,Black board teaching,Yes,Online classes
+Male,Off (Other reason),Off (Other reason),Phone,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),Always On,"Phone, Tab, Laptop, Computer","Eye Strain, Back pain, Headache",Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Headache, Stress",No,Black board teaching,No,Offline classes
+Female,Off (Untidy appearance),On (To answer Teacher),Computer,"Back pain, Other",No,Black board teaching,Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Headache",No,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),Off (Do not want to reply),Laptop,Back pain,Yes,Black board teaching,Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Headache,Yes,Black board teaching,Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",Headache,Yes,Black board teaching,Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Computer",Stress,Yes,Black board teaching,Yes,Online classes
+Female,On (All the time),On (To answer Teacher),"Phone, Laptop, Computer","Eye Strain, Back pain, Headache, Stress",Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),Always On,Tab,Stress,Yes,Black board teaching,Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Tab, Laptop, Computer","Eye Strain, Back pain, Headache, Stress, Other, No Issue",Yes,Black board teaching,Yes,Online classes
+Male,Off (Untidy appearance),Off (Other reason),Computer,No Issue,Yes,Presentations (ppt),No,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Back pain, Headache",Yes,Black board teaching,Yes,Online classes
+Male,Off (Shy to switch on),On (To answer Teacher),Phone,Headache,Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Computer,Headache,Yes,Black board teaching,Yes,Online classes
+Male,On (All the time),Always On,"Phone, Tab, Laptop",Back pain,Yes,Presentations (ppt),Yes,Online classes
+Male,On (All the time),Always On,"Phone, Tab, Laptop",Headache,Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Headache, Stress",Yes,Presentations (ppt),Yes,Offline classes
+Male,Off (No webcam available),Off (Do not want to reply),"Phone, Tab","Eye Strain, Other, No Issue",Yes,Black board teaching,Yes,Offline classes
+Female,Off (Untidy appearance),On (To answer Teacher),Laptop,Headache,Yes,Presentations (ppt),Yes,Online classes
+Male,Off (No webcam available),Off (No mic available),"Phone, Laptop",No Issue,Yes,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),Laptop,No Issue,Yes,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),Off (No mic available),Laptop,Stress,Yes,Presentations (ppt),Yes,Online classes
+Female,Off (No webcam available),Off (Do not want to reply),"Phone, Tab",Eye Strain,Yes,Presentations (ppt),Yes,Online classes
+Female,Off (Untidy appearance),Off (Do not want to reply),Tab,Stress,No,Presentations (ppt),No,Offline classes
+Male,Off (No webcam available),Off (No mic available),Computer,"Eye Strain, Back pain, Headache, Stress",Yes,Presentations (ppt),No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Tab, Laptop","Eye Strain, Stress",Yes,Black board teaching,Yes,Online classes
+Male,On (All the time),Off (No mic available),Computer,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Tab, Laptop",Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,No,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Headache,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Headache,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,No,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Stress, Other",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Back pain, Headache, Stress",No,Black board teaching,Yes,Offline classes
+Male,Off (Other reason),Off (Other reason),Laptop,"Eye Strain, Headache, Other",Yes,Black board teaching,Yes,Offline classes
+Male,Off (Other reason),Off (Other reason),Laptop,"Eye Strain, Headache, Other",Yes,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Back pain, Headache, Stress",No,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Female,Off (Other reason),Off (Other reason),Laptop,"Eye Strain, Headache",Yes,Black board teaching,Yes,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),Laptop,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Male,Off (Other reason),Off (Other reason),Laptop,"Eye Strain, Headache, Stress, Other",Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Stress,No,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),Off (Do not want to reply),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,Off (Other reason),Off (Other reason),Laptop,"Eye Strain, Headache, Stress, Other",Yes,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,Off (No webcam available),Off (No mic available),Phone,"Eye Strain, Headache",No,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain",No,Black board teaching,No,Online classes
+Female,On (All the time),Always On,Laptop,Headache,No,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,Yes,Black board teaching,Yes,Offline classes
+Male,On (All the time),Always On,Laptop,Other,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),Off (Do not want to reply),Laptop,Back pain,No,Black board teaching,Yes,Offline classes
+Female,Off (Other reason),Off (Other reason),Laptop,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,On (All the time),Always On,Tab,"Back pain, Headache, Other",Yes,Black board teaching,No,Online classes
+Male,Off (Untidy appearance),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,Off (No webcam available),Off (No mic available),"Phone, Laptop",Other,No,Black board teaching,No,Offline classes
+Female,On (All the time),Always On,Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),Tab,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),Off (Do not want to reply),Phone,Headache,No,Black board teaching,No,Offline classes
+Female,Off (No webcam available),Off (No mic available),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,Off (Untidy appearance),On (To answer Teacher),Tab,"Back pain, Headache, Other",Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,"Back pain, Headache, Other",No,Black board teaching,Yes,Offline classes
+Female,On (All the time),On (To answer Teacher),Tab,"Back pain, Stress",No,Black board teaching,No,Offline classes
+Female,On (All the time),Always On,Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Back pain, Headache",No,Black board teaching,Yes,Offline classes
+Female,Off (Other reason),Off (Other reason),Laptop,Other,Yes,Black board teaching,Yes,Online classes
+Female,On (All the time),Always On,Laptop,Eye Strain,No,Black board teaching,Yes,Online classes
+Female,On (When teacher asks),Always On,Laptop,Eye Strain,No,Black board teaching,Yes,Offline classes
+Male,Off (Untidy appearance),Off (Do not want to reply),Phone,"Headache, Stress",Yes,Black board teaching,Yes,Online classes
+Female,On (All the time),Always On,Laptop,No Issue,No,Presentations (ppt),No,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,Off (Other reason),Off (Other reason),Computer,Other,Yes,Black board teaching,Yes,Offline classes
+Female,Off (Other reason),Off (Other reason),Computer,"Eye Strain, Back pain, Headache, Stress",Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Computer,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,No,Black board teaching,No,Offline classes
+Male,Off (Shy to switch on),Off (Do not want to reply),Tab,"Eye Strain, Headache",Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Female,On (All the time),Always On,Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Male,Off (No webcam available),Off (No mic available),Phone,"Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,No,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (All the time),Always On,Laptop,Back pain,No,Black board teaching,Yes,Online classes
+Female,Off (Untidy appearance),Off (Do not want to reply),Computer,"Back pain, Stress",Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,On (All the time),Always On,Laptop,Headache,No,Black board teaching,No,Offline classes
+Male,On (All the time),Always On,Laptop,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),Laptop,Other,No,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,Off (No webcam available),Off (No mic available),Computer,"Eye Strain, Back pain, Headache, Stress",Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Computer,Back pain,Yes,Black board teaching,No,Offline classes
+Female,On (All the time),Always On,Laptop,Headache,No,Black board teaching,Yes,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),Laptop,"Back pain, Headache, Stress",Yes,Presentations (ppt),Yes,Online classes
+Female,On (All the time),Always On,Laptop,Back pain,Yes,Black board teaching,No,Offline classes
+Female,On (All the time),Always On,Laptop,Headache,No,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Tab, Laptop, Computer","Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),Off (Do not want to reply),"Tab, Laptop","Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (All the time),Always On,Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),Laptop,Stress,Yes,Black board teaching,Yes,Offline classes
+Female,On (All the time),Always On,Laptop,Headache,No,Black board teaching,No,Online classes
+Female,On (All the time),Always On,Laptop,Back pain,No,Black board teaching,No,Offline classes
+Female,On (All the time),Always On,Laptop,Headache,No,Black board teaching,No,Offline classes
+Male,Off (Untidy appearance),Off (No mic available),Phone,"Eye Strain, Stress",Yes,Black board teaching,No,Offline classes
+Male,Off (Untidy appearance),Off (No mic available),Phone,"Eye Strain, Stress",Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Headache",No,Black board teaching,Yes,Offline classes
+Female,Off (Shy to switch on),Off (Other reason),Phone,"Eye Strain, Back pain, Headache, Stress",No,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Back pain, Headache, Stress, Other",No,Presentations (ppt),Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Male,Off (Other reason),Off (Other reason),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Female,Off (No webcam available),Off (No mic available),Computer,"Eye Strain, Back pain, Headache",Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Other",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Presentations (ppt),No,Offline classes
+Male,On (All the time),On (To answer Teacher),Phone,No Issue,Yes,Black board teaching,Yes,Online classes
+Female,On (When teacher asks),Always On,Laptop,"Back pain, Headache, Stress",Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Other",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,No,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),"Phone, Laptop",No Issue,Yes,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Headache,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Stress,No,Black board teaching,Yes,Offline classes
+Male,Off (Untidy appearance),Off (Do not want to reply),"Laptop, Computer","Eye Strain, Back pain, Headache, Stress, Other",Yes,Black board teaching,Yes,Online classes
+Female,On (All the time),On (To answer Teacher),Laptop,Stress,No,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Stress,No,Black board teaching,No,Offline classes
+Female,Off (No webcam available),Off (No mic available),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,Eye Strain,No,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (All the time),Always On,Laptop,Stress,No,Black board teaching,No,Offline classes
+Female,On (All the time),Always On,Laptop,Stress,No,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,No,Black board teaching,Yes,Offline classes
+Female,Off (Other reason),Off (Other reason),Laptop,Headache,Yes,Black board teaching,Yes,Online classes
+Male,Off (Other reason),Off (Other reason),"Phone, Computer","Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (All the time),On (To answer Teacher),Laptop,Back pain,No,Black board teaching,No,Offline classes
+Female,On (All the time),Always On,Laptop,Other,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Tab","Eye Strain, Back pain, Headache",Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Tab,Other,No,Black board teaching,No,Offline classes
+Male,Off (Other reason),Always On,Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),Always On,Laptop,Headache,No,Black board teaching,No,Offline classes
+Female,Off (Untidy appearance),On (To answer Teacher),"Phone, Tab, Laptop, Computer",Headache,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),Off (Do not want to reply),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),Laptop,"Eye Strain, Back pain",Yes,Presentations (ppt),Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Stress,No,Black board teaching,No,Offline classes
+Female,On (All the time),Always On,Laptop,Other,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),Off (Do not want to reply),Computer,Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (All the time),Always On,Laptop,Stress,No,Black board teaching,Yes,Offline classes
+Female,Off (No webcam available),Off (No mic available),Computer,Stress,Yes,Black board teaching,Yes,Offline classes
+Male,On (All the time),Always On,"Phone, Laptop","Eye Strain, Back pain, Headache, Stress",Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),Always On,Laptop,Stress,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,Off (Untidy appearance),Off (Do not want to reply),"Tab, Laptop","Back pain, Headache, Stress",Yes,Black board teaching,No,Offline classes
+Male,Off (Untidy appearance),Always On,Laptop,"Eye Strain, Stress, Other",No,Black board teaching,No,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Headache,No,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (All the time),On (To answer Teacher),"Phone, Tab, Laptop",No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,On (All the time),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Other,Yes,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),Always On,Phone,Headache,No,Black board teaching,No,Offline classes
+Male,On (All the time),On (To answer Teacher),"Phone, Laptop",No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (All the time),On (To answer Teacher),"Phone, Laptop",No Issue,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (All the time),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (All the time),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Stress,No,Black board teaching,No,Offline classes
+Male,On (All the time),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,Yes,Presentations (ppt),No,Offline classes
+Female,On (All the time),On (To answer Teacher),Laptop,Headache,No,Black board teaching,No,Offline classes
+Male,On (All the time),On (To answer Teacher),Phone,"Eye Strain, Other, No Issue",Yes,Presentations (ppt),Yes,Online classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (All the time),On (To answer Teacher),Computer,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,On (All the time),On (To answer Teacher),Laptop,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Headache,Yes,Presentations (ppt),Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Stress,No,Black board teaching,No,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,Yes,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Headache,No,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Headache",No,Black board teaching,Yes,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (All the time),Off (No mic available),Laptop,Headache,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",Other,No,Black board teaching,No,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Headache, Other",No,Black board teaching,No,Offline classes
+Male,On (All the time),On (To answer Teacher),"Phone, Laptop","Eye Strain, Headache, Stress",Yes,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Stress,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,Headache,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Stress,No,Black board teaching,No,Offline classes
+Male,Off (No webcam available),Always On,Phone,"Eye Strain, Back pain, Headache",Yes,Black board teaching,No,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,Off (Shy to switch on),Off (Do not want to reply),Phone,"Eye Strain, Back pain, Headache, Stress, Other",No,Presentations (ppt),Yes,Online classes
+Female,Off (Other reason),Off (Other reason),Phone,Eye Strain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Stress,No,Black board teaching,No,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,Off (Untidy appearance),Off (No mic available),"Phone, Tab, Laptop, Computer","Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Headache, Other",Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Headache",Yes,Presentations (ppt),Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (All the time),On (To answer Teacher),"Laptop, Computer","Eye Strain, Stress",No,Black board teaching,No,Offline classes
+Male,Off (Shy to switch on),Off (Do not want to reply),Tab,Stress,Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Headache,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),Off (Other reason),Computer,Eye Strain,No,Presentations (ppt),No,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Computer,"Eye Strain, Headache",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Headache,No,Black board teaching,Yes,Offline classes
+Male,Off (Untidy appearance),Off (No mic available),"Phone, Laptop",Other,No,Presentations (ppt),No,Online classes
+Female,On (All the time),Always On,Laptop,Stress,No,Black board teaching,No,Offline classes
+Female,Off (Untidy appearance),Off (Other reason),"Phone, Laptop, Computer",Stress,Yes,Black board teaching,Yes,Online classes
+Female,On (All the time),On (To answer Teacher),Laptop,Stress,No,Black board teaching,No,Offline classes
+Female,On (All the time),Off (Other reason),Laptop,"Eye Strain, Headache, Stress",Yes,Presentations (ppt),Yes,Online classes
+Male,On (All the time),Always On,"Tab, Computer",No Issue,Yes,Presentations (ppt),No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Eye Strain,No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Tab, Laptop, Computer","Eye Strain, Back pain, Headache, Stress",Yes,Presentations (ppt),Yes,Offline classes
+Male,Off (No webcam available),Off (No mic available),Computer,No Issue,No,Presentations (ppt),Yes,Offline classes
+Female,On (When teacher asks),Always On,Tab,Other,No,Black board teaching,No,Offline classes
+Female,Off (Other reason),Off (Other reason),Computer,Other,Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),Always On,"Laptop, Computer",Headache,No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress",Yes,Presentations (ppt),No,Offline classes
+Female,Off (Shy to switch on),Off (No mic available),"Tab, Laptop","Eye Strain, Back pain, Headache",No,Presentations (ppt),No,Offline classes
+Female,Off (Shy to switch on),Off (Do not want to reply),Laptop,Headache,No,Black board teaching,No,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,Eye Strain,Yes,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Headache,No,Black board teaching,No,Offline classes
+Male,Off (Untidy appearance),Off (Do not want to reply),Laptop,"Eye Strain, Back pain, Headache, Stress, Other",Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Back pain,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),Off (No mic available),Phone,"Back pain, Headache, Other",No,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),Off (Do not want to reply),Tab,"Eye Strain, Back pain, Stress",No,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Stress,No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache",No,Black board teaching,No,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,"Back pain, Headache, Other",No,Black board teaching,No,Offline classes
+Male,Off (Shy to switch on),On (To answer Teacher),Phone,"Eye Strain, Back pain, Other",Yes,Black board teaching,Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Headache, Stress, Other",No,Black board teaching,No,Offline classes
+Male,Off (Shy to switch on),Off (Do not want to reply),Laptop,"Eye Strain, Back pain, Stress",No,Black board teaching,Yes,Online classes
+Female,Off (No webcam available),On (To answer Teacher),Laptop,"Back pain, Headache",Yes,Black board teaching,Yes,Online classes
+Male,Off (Shy to switch on),Off (Do not want to reply),Laptop,Stress,Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),Off (Do not want to reply),"Tab, Laptop","Eye Strain, Back pain, Stress",No,Black board teaching,No,Offline classes
+Male,Off (Untidy appearance),Always On,Tab,Eye Strain,Yes,Black board teaching,No,Offline classes
+Male,Off (Shy to switch on),On (To answer Teacher),Phone,Other,No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),Off (Do not want to reply),Laptop,Back pain,Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),Always On,"Phone, Tab","Eye Strain, Back pain, Stress",Yes,Black board teaching,No,Offline classes
+Male,Off (No webcam available),Off (Do not want to reply),Tab,"Headache, Stress",No,Black board teaching,Yes,Online classes
+Male,Off (Untidy appearance),Off (No mic available),Computer,"Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,Off (Other reason),On (To answer Teacher),Phone,"Eye Strain, Headache, Stress",Yes,Presentations (ppt),Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Eye Strain, Headache",No,Presentations (ppt),No,Offline classes
+Male,Off (Other reason),Off (Other reason),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (All the time),Always On,Phone,Eye Strain,No,Presentations (ppt),No,Offline classes
+Male,Off (No webcam available),Off (Other reason),Computer,"Eye Strain, Back pain, Headache, Other",Yes,Presentations (ppt),No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),Phone,No Issue,Yes,Presentations (ppt),Yes,Offline classes
+Male,Off (Untidy appearance),Off (No mic available),"Phone, Tab, Laptop, Computer","Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,Off (Shy to switch on),On (To answer Teacher),Laptop,Eye Strain,Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,Headache,No,Presentations (ppt),Yes,Online classes
+Male,Off (Shy to switch on),On (To answer Teacher),Computer,No Issue,Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),Off (Do not want to reply),Tab,"Eye Strain, Headache, Stress",No,Black board teaching,Yes,Offline classes
+Female,On (When teacher asks),Always On,Phone,Headache,Yes,Presentations (ppt),No,Online classes
+Male,Off (Untidy appearance),Off (Do not want to reply),"Phone, Tab","Eye Strain, Back pain",Yes,Black board teaching,No,Online classes
+Female,On (When teacher asks),Always On,"Phone, Tab","Headache, Stress",Yes,Black board teaching,Yes,Online classes
+Female,Off (No webcam available),On (To answer Teacher),"Tab, Laptop","Eye Strain, Back pain",Yes,Black board teaching,No,Online classes
+Male,Off (Shy to switch on),Always On,Phone,Back pain,Yes,Black board teaching,Yes,Offline classes
+Male,On (When teacher asks),Always On,"Phone, Tab, Laptop","Eye Strain, Back pain",Yes,Black board teaching,Yes,Online classes
+Male,Off (Shy to switch on),On (To answer Teacher),"Tab, Laptop, Computer","Back pain, Headache",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),Laptop,"Eye Strain, Back pain, Headache, Stress, Other",Yes,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),Off (Do not want to reply),Laptop,"Eye Strain, Back pain",Yes,Black board teaching,No,Offline classes
+Female,On (When teacher asks),Off (Do not want to reply),"Tab, Computer","Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,Off (No webcam available),Off (No mic available),Computer,"Eye Strain, Back pain",Yes,Presentations (ppt),Yes,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Phone,Headache,Yes,Black board teaching,Yes,Offline classes
+Male,On (All the time),Always On,Laptop,"Eye Strain, Stress",Yes,Black board teaching,Yes,Offline classes
+Female,Off (Untidy appearance),Off (No mic available),"Phone, Laptop",No Issue,Yes,Black board teaching,No,Online classes
+Male,Off (Untidy appearance),Off (Do not want to reply),Laptop,Stress,Yes,Black board teaching,No,Offline classes
+Male,Off (Untidy appearance),Off (Other reason),Tab,"Back pain, Headache",Yes,Presentations (ppt),Yes,Online classes
+Female,Off (No webcam available),Off (No mic available),Computer,Other,Yes,Black board teaching,Yes,Online classes
+Female,Off (Untidy appearance),Off (Do not want to reply),"Tab, Laptop","Back pain, Headache, Other",Yes,Black board teaching,No,Offline classes
+Male,On (When teacher asks),On (To answer Teacher),"Tab, Laptop","Eye Strain, Back pain, Headache",Yes,Black board teaching,No,Offline classes
+Female,On (All the time),Always On,"Phone, Tab",Headache,No,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),On (To answer Teacher),Phone,"Eye Strain, Back pain, Headache, Stress",No,Black board teaching,No,Offline classes
+Male,On (When teacher asks),Off (No mic available),Computer,Other,Yes,Presentations (ppt),Yes,Offline classes
+Female,Off (Shy to switch on),Off (Do not want to reply),"Tab, Laptop",Eye Strain,Yes,Presentations (ppt),Yes,Online classes
+Female,Off (Untidy appearance),On (To answer Teacher),Phone,"Eye Strain, Stress",Yes,Black board teaching,No,Offline classes
+Female,Off (Other reason),Off (Other reason),Laptop,Other,Yes,Presentations (ppt),Yes,Offline classes
+Female,On (When teacher asks),On (To answer Teacher),"Phone, Laptop","Back pain, Headache, Stress",Yes,Black board teaching,Yes,Offline classes
+Female,Off (Other reason),Off (Do not want to reply),"Phone, Laptop","Eye Strain, Back pain, Stress",No,Black board teaching,No,Offline classes
+Female,Off (Shy to switch on),Off (Do not want to reply),"Phone, Tab, Laptop, Computer","Back pain, Stress",Yes,Presentations (ppt),Yes,Online classes
+Male,On (When teacher asks),On (To answer Teacher),"Phone, Laptop",No Issue,Yes,Presentations (ppt),Yes,Online classes
+Female,On (All the time),Always On,Laptop,Headache,No,Black board teaching,No,Online classes
+Female,On (When teacher asks),On (To answer Teacher),Laptop,Stress,Yes,Presentations (ppt),No,Offline classes
+Male,On (All the time),Off (Do not want to reply),Phone,Stress,Yes,Presentations (ppt),Yes,Offline classes
+Male,On (All the time),Always On,Phone,Back pain,Yes,Presentations (ppt),Yes,Offline classes
+Male,On (All the time),Always On,Tab,Stress,Yes,Black board teaching,Yes,Offline classes
+Female,On (All the time),Always On,Tab,Stress,Yes,Black board teaching,No,Offline classes
+Male,On (All the time),Always On,Phone,Stress,Yes,Black board teaching,No,Offline classes
+Male,Off (Other reason),Always On,Tab,Eye Strain,Yes,Black board teaching,No,Online classes
+Male,On (All the time),Always On,Phone,Stress,Yes,Black board teaching,No,Offline classes
+Male,On (All the time),Always On,Laptop,Stress,Yes,Presentations (ppt),No,Offline classes
+Male,On (All the time),Always On,Laptop,Stress,Yes,Presentations (ppt),No,Offline classes
+Male,On (All the time),Always On,Laptop,Stress,No,Presentations (ppt),No,Offline classes
+Male,On (All the time),Always On,Laptop,Stress,Yes,Presentations (ppt),No,Offline classes
+Male,On (All the time),Always On,Laptop,Stress,Yes,Black board teaching,No,Offline classes
