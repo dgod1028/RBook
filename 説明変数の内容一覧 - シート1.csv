@@ -1,0 +1,20 @@
+説明変数名,内容,備考
+age,年齢,
+job,仕事の種類,"カテゴリ：「admin.（事務職）」、「unknown（不明）」、「unemployed（失業者）」、
+　　　　　「management（管理職）」、「housemaid（家事代行）」、「entrepreneur（起業家）」、
+ 　　　　   「student（学生）」、「blue-collar（ブルーカラー）」、「self-employed（自営業）」、
+ 　　　　   「retired（退職者）」、「technician（技術者）」、「services（サービス業）」"
+marital,結婚状況,カテゴリ：「married（既婚）」、「divorced（離婚）」、「single（独身）」（注：「死別」は離婚に区分）
+education,教育（学歴）,
+default,クレジットが債務不履行に なった事があるか?,
+balance,年平均の資産残高,単位：ユーロ
+housing,住宅ローンの有無,
+loan,個人ローンの有無,
+contact,接触手段,カテゴリ：「unknown（不明）」、「telephone（電話）」、「cellular（携帯電話）」
+day,最後の接触日,「month」とあわせて，最終接触月日を示す。
+month,最後の接触月,
+duration,接触時間,単位：秒
+campaign,今回のキャンペーンにおける接触回数,最後の接触日時を含む
+pdays,前回キャンペーン時の最終接触日からの経過日数,「-1」は，前回のキャンペーンで未接触であったことを示す
+previous,前回のキャンペーンにおける接触回数,
+poutcome,前回のキャンペーンの結果,カテゴリ：「unknown（不明）」、「other（その他）」、「failure（失敗）」、「success（成功）」
